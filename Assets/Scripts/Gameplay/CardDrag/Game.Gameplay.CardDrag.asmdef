@@ -1,0 +1,19 @@
+{
+  "name": "Game.Gameplay.CardDrag",
+  "rootNamespace": "",
+  "references": [
+    "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+    "GUID:35032e40819946345800d68560ff9e77",
+    "GUID:22a2db77c47c87f458adff27bb33250e",
+    "GUID:4390351ff9ad419458a0935a13a2aea6"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

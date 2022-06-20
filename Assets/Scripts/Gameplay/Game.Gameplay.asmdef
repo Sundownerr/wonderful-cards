@@ -1,0 +1,9 @@
+{
+  "name": "Game.Gameplay",
+  "references": [
+    "GUID:4390351ff9ad419458a0935a13a2aea6",
+    "GUID:22a2db77c47c87f458adff27bb33250e",
+    "GUID:5ac3375600707b54182d5e209d017088",
+    "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+  ]
+}

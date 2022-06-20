@@ -1,0 +1,7 @@
+{
+  "name": "Game.Card.Model",
+  "references": [
+    "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+    "GUID:5ac3375600707b54182d5e209d017088"
+  ]
+}

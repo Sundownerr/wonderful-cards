@@ -1,0 +1,8 @@
+{
+  "name": "Game.Card.Controller",
+  "references": [
+    "GUID:4390351ff9ad419458a0935a13a2aea6",
+    "GUID:99f638edb6609664582ecd03f4e5a52a",
+    "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+  ]
+}
